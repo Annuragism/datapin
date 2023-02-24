@@ -1,0 +1,6 @@
+.api-tile{
+  background:linear-gradient(90deg, rgba(255, 255, 255, 0.19) 0%, rgba(255, 255, 255, 0.171) 100%);
+border-radius: 5px;
+cursor: pointer;
+font-family: "Larken" !important;
+}

@@ -1,0 +1,131 @@
+.verification-analysis {
+  margin-top: 20px;
+  background-color: #f6f6ff;
+  min-height: 80vh;;
+}
+.document-verification{
+  overflow-y: scroll;
+  min-height: 75vh;
+  max-height: 75vh;
+}
+.detailed-verification-analysis-header {
+  color: #fff;
+  font-size: 20px;
+}
+.document-verification-header-title{
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 18px;
+  color: #3a3868;
+}
+.document-verification-content {
+  background-color: #f6f6ff;
+ max-height: 80vh;
+}
+.document-verification-header-status{
+  font-style: normal;
+  font-size: 18px;
+  line-height: 18px;
+  color: #3a3868; 
+}
+
+.pdf-viewer {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.document-verification-header {
+  color: #000;
+  background-color: #f1f1ff;
+  display: flex;
+  padding: 45px;
+  /* position:sticky; */
+  /* top:0; */
+  background-color:#F6F6FF;
+  /* z-index: 11; */
+ 
+}
+.doc-verification-container{
+  padding: 25px 70px 15px 20px;
+  color:#000;
+   max-height: 60vh;
+    overflow-y: scroll;
+}
+.control-block{
+  padding: 10px;
+}
+.control-block-container{
+  padding: 10px 10px 10px 25px;
+}
+.control-block-heading{
+  font-family: 'Suisse Int';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 18px;
+color: #3A3868;
+margin-bottom:10px
+}
+
+.confirm-block {
+  padding: 20px;
+}
+.confirm-block-heading{
+  font-family: 'Suisse Int';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 18px;
+color: #3A3868;
+}
+.confirm-feilds {
+  /* margin-top: 20px; */
+}
+.field-card {
+  margin-top: 35px;
+}
+
+/* VERIFY BLOCK */
+
+.verify-block {
+  padding: 20px;
+}
+.verify-feild-block {
+     background-color: #ffffff;
+    box-shadow: 0px 4px 6px 1px rgb(0 0 0 / 4%);
+    min-width: 15vw;
+    margin: 15px auto;
+    overflow: hidden;
+}
+.verify-block-heading {
+  font-family: "Suisse Int";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 18px;
+  color: #3a3868;
+}
+.value-container {
+  padding: 20px;
+}
+.verify-feild-name {
+}
+.verify-feild-value {
+}
+.verify-title {
+}
+.verify-feild-validation-block {
+  background-color: rgba(255, 188, 0, 0.1);
+  border-radius: 8px;
+  margin: 20px;
+  padding: 25px;
+}
+
+.confirm-feild-validation-block {
+ background-color: rgba(51, 224, 161, 0.1);
+  border-radius: 8px;
+  margin: 20px;
+  padding: 25px;
+}
+
+

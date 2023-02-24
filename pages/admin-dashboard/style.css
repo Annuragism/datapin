@@ -1,0 +1,163 @@
+/* .admin-dahboard-container *{
+  font-size: 20px  !important;
+} */
+
+.template-card:hover{
+background-color:rgba(140, 68, 232, 0.818932) ;
+color:#fff !important;
+}
+.template-card{
+color: #605F7C;
+}
+.template-card-title{
+  font-size: 20px  !important;
+
+}
+.template-card,.template-card-title,.template-card-subheading{
+  /* font-family: "Larken" !important; */
+  font-family: 'Suisse Int' !important;
+font-style: normal;
+font-weight: 450;
+font-size: 14px;
+line-height: 18px;
+cursor: pointer;
+}
+.template-card-status *{
+color: #3A3868 !important;
+}
+.card-documentation {
+color: #fff !important;
+border:1px solid #fff;
+font-family: "Larken" !important
+}
+.document-button{
+  cursor: pointer;
+  border-radius: 50%;
+  height: 40px !important;
+  width: 40px !important;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+border:1px solid rgba(255,255,255,0);
+  background:linear-gradient(90deg, #7872E2 0%, rgba(140, 68, 232, 0.818932) 51.73%, rgba(184, 82, 220, 0.65) 100%);
+}
+.document-button:hover{
+
+background:unset;
+border:1px solid #fff
+}
+
+
+.d-title {
+  font-family: 'Larken' !important;
+  font-style: normal  !important;
+  font-weight: 500  !important;
+  font-size: 30px  !important;
+  line-height: 40px  !important;
+  color: var(--primary-text-color)  !important;
+
+}
+
+.d-sub-title {
+  font-family: 'Suisse Int'  !important;
+  font-style: normal  !important;
+  font-weight: 450  !important;
+  font-size: 16px  !important;
+  line-height: 21px  !important;
+  color: var(--primary-text-color)  !important;
+}
+.tile-img {
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
+
+.tile-content{
+  margin-left: 20px;
+  font-family: 'Larken' !important;
+
+}
+
+.tile-container {
+  font-family: 'Larken' !important;
+  height: 100px;
+  background: rgba(255, 255, 255, 0.1);
+  opacity: 0.91;
+  border-radius: 5px;
+  padding: 10px;
+  position: relative;
+}
+.tile-dot-icon {
+  position: absolute;
+  right: 20px;
+  top: 15px
+}
+
+/* .analysis-card {
+  width: 80%;
+  height: 80px;
+  border-radius: 5px;
+  padding: 2%;
+  border: 1px solid rgba(96, 95, 124, 0.1);
+  margin-top: 2%;
+  color: #605f7c;
+} */
+
+.analysis-card:hover {
+  background: #8853cc;
+  color: #fff;
+}
+
+.analysis-card-active {
+  background: #8853cc;
+  color: #fff;
+}
+
+/* Step Two */
+.step-two-content {
+  padding-left: 100px;
+}
+
+.step-two-text-heading {
+  font-family: "Suisse Int";
+  font-style: normal;
+  font-weight: 450;
+  font-size: 20px;
+  line-height: 26px;
+  color: #3a3868;
+}
+
+.step-two-text-sub-heading {
+  font-family: "Suisse Int";
+  font-style: normal;
+  font-weight: 450;
+  font-size: 14px;
+  line-height: 18px;
+  color: #605f7c;
+  margin-top: 10px;
+}
+
+.analysis-header-container {
+  background: #f6f6ff;
+  padding: 2%;
+}
+
+.analysis-header-text {
+  font-family: "Larken";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 34px;
+  line-height: 45px;
+  color: #3a3868;
+}
+
+.analysis-back-btn {
+  border: 1px solid #3a3868;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}

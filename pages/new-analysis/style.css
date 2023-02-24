@@ -1,0 +1,337 @@
+.m-35 {
+  margin: 35px;
+}
+
+.analysis-header-container {
+  background: #f6f6ff;
+  padding: 2%;
+}
+
+.analysis-header-text {
+  font-family: "Larken";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 34px;
+  line-height: 45px;
+  color: #3a3868;
+}
+
+.analysis-step {
+  font-family: "Larken";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 27px;
+  color: #3a3868;
+}
+
+.analysis-back-btn {
+  border: 1px solid #3a3868;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.step-main-container {}
+
+/* Cards */
+
+.card-container {
+  margin-top: 40px;
+}
+
+/* Step 1 */
+.step-one-content {
+  padding-left: 100px;
+}
+
+.card {
+  width: 263px;
+  height: 386px;
+  background: #f6f7fa;
+  display: flex;
+  justify-content: center;
+  /* margin-left: 60px; */
+  align-items: center;
+  color: #c7c7d5;
+  cursor: pointer;
+}
+
+.card:hover {
+  border-color: #8853cc;
+  color: #8853cc;
+}
+
+.one {
+  border: 1px dashed #d9d9da;
+  border-radius: 10px;
+}
+
+.two {
+  border: 1px solid #d9d9da;
+  border-radius: 10px;
+}
+
+.three {
+  border: 1px solid #d9d9da;
+  border-radius: 10px;
+}
+
+.step-text-heading {
+  font-family: "Suisse Int";
+  font-style: normal;
+  font-weight: 450;
+  font-size: 20px;
+  line-height: 26px;
+  color: #3a3868;
+}
+
+.step-text-sub-heading {
+  font-family: "Suisse Int";
+  font-style: normal;
+  font-weight: 450;
+  font-size: 14px;
+  line-height: 18px;
+  color: #605f7c;
+  margin-top: 10px;
+}
+
+.file {}
+
+.file-container {
+  margin-top: 50px;
+}
+
+.file-container-tex1 {
+  font-family: 'Larken';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  color: #3A3868;
+}
+
+.file-container-text2 {
+  font-family: 'Suisse Int';
+  font-style: normal;
+  font-weight: 450;
+  font-size: 16px;
+  line-height: 21px;
+  color: #3A3868;
+}
+
+.file-container-text3 {
+  font-family: 'Suisse Int';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #3A3868;
+}
+
+.file-container-text4 {
+  font-family: 'Suisse Int';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  color: #C7C7D5;
+}
+
+.css-fy0bt0 {
+  appearance: none !important;
+  outline: none !important;
+}
+
+.block {
+  width: 596px;
+  height: 102px;
+  background: #ffffff;
+  border: 1px solid rgba(96, 95, 124, 0.1);
+  border-radius: 5px;
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+/* Step Two */
+.step-two-content {
+  padding-left: 100px;
+}
+
+.step-two-text-heading {
+  font-family: "Suisse Int";
+  font-style: normal;
+  font-weight: 450;
+  font-size: 20px;
+  line-height: 26px;
+  color: #3a3868;
+}
+
+.step-two-text-sub-heading {
+  font-family: "Suisse Int";
+  font-style: normal;
+  font-weight: 450;
+  font-size: 14px;
+  line-height: 18px;
+  color: #605f7c;
+  margin-top: 10px;
+}
+
+/* Analysis Card */
+.analysis-card-container {}
+
+.analysis-card {
+  width: 80%;
+  height: 100px;
+  border-radius: 5px;
+  padding: 2%;
+  border: 1px solid rgba(96, 95, 124, 0.1);
+  margin-top: 2%;
+  color: #605f7c;
+}
+
+.analysis-card:hover {
+  background: #8853cc;
+  color: #fff;
+}
+
+.analysis-card-active {
+  background: #8853cc;
+  color: #fff;
+}
+
+.add-file {
+  background: #F6F7FA;
+  border: 1px dashed #D9D9DA;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+/* .add-file .block{
+    justify-content: unset;
+} */
+
+.add-file-icon {
+  /* height: 50px;
+    width: 50px; */
+}
+
+
+/* Aanalysis Got-block */
+
+.analysis-got-report {
+  padding: 100px
+}
+
+.analysis-got-text {
+  font-family: 'Suisse Int';
+  font-style: normal;
+  font-weight: 450;
+  font-size: 20px;
+  line-height: 26px;
+  color: #3A3868;
+}
+
+.analysis-got-heading {}
+
+.analysis-got-sub-heading {
+  margin-top: 35px;
+
+}
+
+.analysis-estimated-time {
+  margin-top: 35px;
+  font-family: 'Suisse Int';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 26px;
+  color: #3A3868;
+}
+
+.analysis-got-btn {
+  display: flex;
+  align-items: left;
+  justify-content: left;
+}
+
+.analysis-icon {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+.file-name {
+  width: 100%;
+}
+
+.file-delete-button {
+  margin-right: 2rem;
+}
+
+.single-analysis {}
+
+.single-analysis-header {
+  background: #F6F6FF;
+  padding: 30px;
+}
+
+.analysis-single-card-container {
+  justify-content: space-between;
+  margin-top: 40px;
+}
+
+.analysis-single-card {
+  height: 100px;
+}
+
+.single-analysis-text1 {
+  font-family: 'Larken';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 27px;
+  color: #3A3868;
+}
+
+.single-analysis-text2 {
+  font-family: 'Larken';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  color: #605F7C;
+
+}
+
+.single-analysis-text3 {
+  font-family: 'Suisse Int';
+  font-style: normal;
+  font-weight: 450;
+  font-size: 16px;
+  line-height: 21px;
+  color: #605F7C;
+}
+
+.analysis-loader-analysis {
+  height: 15px;
+  background-color: #F6F6FF;
+  border-radius: 5px;
+}
+
+.error-limit-div {
+  padding-top: 1rem;
+  color: red;
+}
+
+.analysis-name-grid {
+  display: flex;
+  align-items: center;
+}

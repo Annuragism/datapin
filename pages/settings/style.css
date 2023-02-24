@@ -1,0 +1,13 @@
+.setting{
+  background-color: var(--background);
+  /* height: 50px;
+  width: 50px; */
+  color: var(--text-primary) !important
+}
+.css-v3pqdp-MuiInputBase-root-MuiFilledInput-root-MuiSelect-root:hover {
+    background-color: rgba(255, 255, 255, 0.973) !important;
+}
+.MuiInputBase-root.MuiFilledInput-root.MuiFilledInput-underline.MuiInputBase-colorPrimary.Mui-focused.css-v3pqdp-MuiInputBase-root-MuiFilledInput-root-MuiSelect-root{
+    background-color: rgba(255, 255, 255, 0.973) !important;
+
+}

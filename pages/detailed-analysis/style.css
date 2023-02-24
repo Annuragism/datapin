@@ -1,0 +1,66 @@
+
+
+.detailed-analysis{
+  margin-top:20px;
+  background-color:#F6F6FF;
+  min-height: 80vh;
+}
+.da-title{
+  font-family: 'Larken';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 40px;
+}
+.detailed-analysis-header{
+  color: #fff;
+}
+.document-content{
+  background-color:#F6F6FF;
+      overflow-y: auto;
+    max-height: 80vh;
+}
+.document-container-header{
+  padding: 40px;
+font-family: 'Larken';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+color: #3A3868;
+      position: sticky !important;
+    top: 0 !important;
+    background-color: #F6F6FF !important;
+    z-index: 11 !important;
+
+}
+.pdf-viewer{
+  background-color:#F6F6FF;
+}
+.document-tile{
+  margin-top:5px;
+  width:100%;
+  display:flex;
+  justify-content:center;
+  background-color: #fff;
+}
+.doc-name{
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+color: #605F7C;
+font-family: 'Suisse Int';
+font-style: normal;
+}
+.doc-status{
+  margin-top: 10px;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+color: #3A3868;
+}
+.delete-icon:hover{
+color: #3A3868 !important;
+cursor: pointer;
+}
